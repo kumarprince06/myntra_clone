@@ -12,7 +12,7 @@ A clone of the Myntra website created using HTML and CSS.
 - [Contact](#contact)
 
 ## Description
-This project is a clone of the Myntra e-commerce website, focusing on replicating its design and layout using HTML for structure and CSS for styling. It includes pages such as the homepage, product listing pages, product details pages, and a responsive design for optimal viewing on different devices.
+This project is a clone of the Myntra e-commerce website, focusing on replicating its design and layout using HTML for structure and CSS for styling. It includes pages such as the homepage only and a responsive design for optimal viewing on different devices.
 
 ## Installation
 1. Clone this repository to your local machine:
